@@ -35,3 +35,23 @@ test-output/
 
 # IntelliJ files
 .idea
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# VS Code
+.vscode/
+
+# MacOS und Windows
+.DS_Store
+Thumbs.db
+
+# Build & Gradle
+/build/
+.gradle/
